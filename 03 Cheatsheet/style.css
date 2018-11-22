@@ -1,0 +1,31 @@
+ul.a {
+    list-style-type: square;
+}
+
+ul.b {
+    list-style-image: url('a.jpg');
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+ul.d {
+    list-style-position: inside;
+}
+ul.e {
+    list-style-position: outside;
+}
+
+table.m, th, td {
+    border: 1px solid black;
+}
+p.ex1 {
+    border: 1px solid black;
+    outline-style: solid;
+    outline-color: red;
+}
+
+table.a, th, td {
+    border: 1px solid black;
+}
